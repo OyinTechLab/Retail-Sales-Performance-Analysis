@@ -95,7 +95,7 @@ blend of both years rather than a true single-year seasonal trend. A future
 iteration should separate revenue by year to properly assess seasonality.
 
 ## Files in This Repository
-- `data/Oyin_Tech_Lab_Sales_Report.xlsx` — cleaned dataset
+- `excel/Oyin_Tech_Lab_Sales_Report.xlsx` — cleaned dataset
 - `powerbi/OyinTechLab_Sales_Report.pbix` — full Power BI report file
 - `images/dashboard_screenshot.png` — dashboard preview
 - `docs/Retail_Sales_Case_Study.docx` — detailed case study write-up
